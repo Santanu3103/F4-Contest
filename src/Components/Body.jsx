@@ -27,7 +27,6 @@ function Body() {
                     warning.style.color = "red";
                 
                 }else if(values[2]!==values[3] ){
-                    setDisplay(false);
                     setData("Your password doesn't match");
                     warning.style.color = "red";
                 
